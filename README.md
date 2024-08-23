@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/22cba2fe-58b9-4ae7-a97a-ab0c44ba18e0)
+
+**Purpose:** evaluate the number of transactions and quantity of products purchased according the type of card, education level and
+salary range of customer.
+
 The data represents information about bank customers and includes the following columns:
 * idade = age of the customer
 * sexo = gender (F or M)
@@ -15,5 +20,4 @@ The data represents information about bank customers and includes the following 
 The analysis was performed at MySQL with the data available at:
 https://github.com/andre-marcos-perez/ebac-course-utils/tree/main/dataset
 
-Purpose: evaluate the number of transactions and quantity of products purchased according the type of card, education level and
-salary range of customer.
+**Dashboard:** https://lookerstudio.google.com/u/0/reporting/d570e1f4-8a99-4146-aeac-8a940a777789/page/WC38D *(Made at Looker Studio)*
